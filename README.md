@@ -45,12 +45,6 @@ source .venv/bin/activate  # Linux/Mac
 uv sync
 ```
 
-Here’s a **professional `README.md`** draft for your **Trainer App backend**. I made it clean, modern, and aligned with conventions from popular open-source Python projects. It assumes you’ll use **uv (by Astral)** for dependencies, **pytest** for testing, and **coverage.py** for coverage reports.
-
-You can tweak the project name, description, and badges once you set up the actual repos.
-
----
-
 ---
 
 ## 🚀 Running the App
