@@ -1,4 +1,4 @@
-# 🏋️ Fitboost App API
+# 💪 Fitboost App API
 
 [![Tests](https://github.com/victormanueldev/fitboost-be/actions/workflows/tests.yml/badge.svg)](https://github.com/victormanueldev/fitboost-be/actions/workflows/tests.yml)
 [![Coverage Status](https://coveralls.io/repos/github/victormanueldev/fitboost-be/badge.svg?branch=main)](https://coveralls.io/github/victormanueldev/fitboost-be?branch=main)
