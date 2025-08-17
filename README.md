@@ -8,7 +8,7 @@ Built with **Python**, **Quart/Flask**, **Pydantic**, and **RQ** for background 
 
 ---
 
-##  Features
+## ✨ Features
 
 - RESTful API following [Google API Design Guidelines](https://cloud.google.com/apis/design) (simplified).
 - Domain-driven design with Clean Architecture practices.
@@ -21,7 +21,7 @@ Built with **Python**, **Quart/Flask**, **Pydantic**, and **RQ** for background 
 
 ---
 
-## Installation
+## 📦 Installation
 
 ### Prerequisites
 - Python **3.13+**
@@ -62,7 +62,7 @@ The API will be available at:
 
 ---
 
-## Testing
+## 🧪 Testing
 
 ```bash
 # Run tests
@@ -76,7 +76,7 @@ coverage html  # Generates HTML report in htmlcov/
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 trainer-app/
@@ -96,7 +96,7 @@ trainer-app/
 
 ---
 
-## Development
+## 🛠️ Development
 
 * **Linting & Formatting**: [ruff](https://docs.astral.sh/ruff/)
 * **Type Checking**: [mypy](https://mypy-lang.org/)
@@ -113,7 +113,7 @@ mypy app
 
 ---
 
-## API Documentation
+## 📖 API Documentation
 
 The API follows REST best practices:
 
