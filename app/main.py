@@ -1,5 +1,5 @@
 def main():
-    print("Hello from fitboost-be!")
+    print("Hello from fitboost-be")
 
 
 if __name__ == "__main__":
