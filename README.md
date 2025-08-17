@@ -1,4 +1,4 @@
-# 🏋️ Fitboost App API
+# 💪 Fitboost App API
 
 [![Tests](https://github.com/victormanueldev/fitboost-be/actions/workflows/tests.yml/badge.svg)](https://github.com/victormanueldev/fitboost-be/actions/workflows/tests.yml)
 [![Coverage Status](https://coveralls.io/repos/github/victormanueldev/fitboost-be/badge.svg?branch=main)](https://coveralls.io/github/victormanueldev/fitboost-be?branch=main)
@@ -44,12 +44,6 @@ source .venv/bin/activate  # Linux/Mac
 # Install dependencies
 uv sync
 ```
-
-Here’s a **professional `README.md`** draft for your **Trainer App backend**. I made it clean, modern, and aligned with conventions from popular open-source Python projects. It assumes you’ll use **uv (by Astral)** for dependencies, **pytest** for testing, and **coverage.py** for coverage reports.
-
-You can tweak the project name, description, and badges once you set up the actual repos.
-
----
 
 ---
 
